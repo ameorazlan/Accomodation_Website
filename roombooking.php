@@ -2,7 +2,7 @@
     <head>
         <title>Coursework Website</title>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="coursework.css" type="text/css">
+        <link rel="stylesheet" href="Template.css" type="text/css">
     </head>
 <body>
     <?php
