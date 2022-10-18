@@ -1,0 +1,61 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height: 50%;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #17252a;
+}
+body {
+    text-align: center;
+    background-color: #3aafa9;
+    color: #17252a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form {
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input, textarea {
+    background-color : #2B7A78; 
+  }
+
+select {
+    background: #2B7A78;
+}
+
+#php_results {
+    text-align: center;
+    color: #feffff;
+}
+#php_result_main {
+    text-align: center;
+    color: red;
+}
+
+th, td {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #2B7A78;
+    text-align: center;
+    border: 1px solid black ;
+    border-collapse: collapse;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submit {
+    color:#FEFFFf
+}
+
+::placeholder {
+    color: #feffff;
+}
